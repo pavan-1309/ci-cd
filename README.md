@@ -196,4 +196,4 @@ Log out and log back in.
 * Push image to Docker Hub
 * Deploy container on EC2 via SSH
 
-This setup is now ready for CI/CD automation 
+This setup is now ready for CI/CD automation...
